@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="yangbinbin@localhost:18889">
+    <serverData>
+      <paths name="yangbinbin@localhost:18889">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/yangbinbin/miniconda3/tmp/PSENet" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
